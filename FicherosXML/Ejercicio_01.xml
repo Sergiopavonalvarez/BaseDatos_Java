@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<PersonasSeries>
+    <Persona>
+        <Nombre>Dante</Nombre>
+        <Serie_favorita>South Park</Serie_favorita>
+    </Persona>
+    <Persona>
+        <Nombre>Miguel</Nombre>
+        <Serie_favorita>Gran Hemrano</Serie_favorita>
+    </Persona>
+    <Persona>
+        <Nombre>Pablo</Nombre>
+        <Serie_favorita>Juego de tronos</Serie_favorita>
+    </Persona>
+    <Persona>
+        <Nombre>Sergio</Nombre>
+        <Serie_favorita>Gran Hemrano vip</Serie_favorita>
+    </Persona>
+    <Persona>
+        <Nombre>Jhair</Nombre>
+        <Serie_favorita>Gran Hemrano vip</Serie_favorita>
+    </Persona>
+</PersonasSeries>

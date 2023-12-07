@@ -1,0 +1,47 @@
+<ListaObjetos>
+  <Alumno>
+    <nombre>Sergio Pavon</nombre>
+    <edad>35</edad>
+    <noGrupo>7</noGrupo>
+    <alturaAproxEnMetros>1.72</alturaAproxEnMetros>
+    <juegaEnConsola>true</juegaEnConsola>
+    <horasEnElLOL>0</horasEnElLOL>
+    <juegoFavorito>The Last of Us</juegoFavorito>
+  </Alumno>
+  <Alumno>
+    <nombre>Miguel Pavon</nombre>
+    <edad>27</edad>
+    <noGrupo>7</noGrupo>
+    <alturaAproxEnMetros>1.72</alturaAproxEnMetros>
+    <juegaEnConsola>true</juegaEnConsola>
+    <horasEnElLOL>0</horasEnElLOL>
+    <juegoFavorito>Fifa</juegoFavorito>
+  </Alumno>
+  <Alumno>
+    <nombre>Dante Gennari</nombre>
+    <edad>36</edad>
+    <noGrupo>8</noGrupo>
+    <alturaAproxEnMetros>1.87</alturaAproxEnMetros>
+    <juegaEnConsola>true</juegaEnConsola>
+    <horasEnElLOL>0</horasEnElLOL>
+    <juegoFavorito>Fifa</juegoFavorito>
+  </Alumno>
+  <Alumno>
+    <nombre>Pablo Navarro</nombre>
+    <edad>28</edad>
+    <noGrupo>9</noGrupo>
+    <alturaAproxEnMetros>1.86</alturaAproxEnMetros>
+    <juegaEnConsola>true</juegaEnConsola>
+    <horasEnElLOL>0</horasEnElLOL>
+    <juegoFavorito>Total War</juegoFavorito>
+  </Alumno>
+  <Alumno>
+    <nombre>Sergio Rubio</nombre>
+    <edad>23</edad>
+    <noGrupo>9</noGrupo>
+    <alturaAproxEnMetros>1.93</alturaAproxEnMetros>
+    <juegaEnConsola>true</juegaEnConsola>
+    <horasEnElLOL>0</horasEnElLOL>
+    <juegoFavorito>The Last of Us</juegoFavorito>
+  </Alumno>
+</ListaObjetos>

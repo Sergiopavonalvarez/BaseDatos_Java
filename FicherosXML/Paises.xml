@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Paises>
+    <Pais>
+        <Nombre>Belice</Nombre>
+        <Presidente>Froyla Tzalam</Presidente>
+        <PIB>1987</PIB>
+        <Coeficiente_Gini>53.3</Coeficiente_Gini>
+    </Pais>
+    <Pais>
+        <Nombre>El Salvador</Nombre>
+        <Presidente>Nayib Bukele</Presidente>
+        <PIB>74818</PIB>
+        <Coeficiente_Gini>38.8</Coeficiente_Gini>
+    </Pais>
+    <Pais>
+        <Nombre>Guatemala</Nombre>
+        <Presidente>Alejandro Giamattei</Presidente>
+        <PIB>185473</PIB>
+        <Coeficiente_Gini>48.3</Coeficiente_Gini>
+    </Pais>
+    <Pais>
+        <Nombre>Honduras</Nombre>
+        <Presidente>Xiomara Castro</Presidente>
+        <PIB>85625</PIB>
+        <Coeficiente_Gini>48.3</Coeficiente_Gini>
+    </Pais>
+    <Pais>
+        <Nombre>Nicaragua</Nombre>
+        <Presidente>Daniel Ortega</Presidente>
+        <PIB>47770</PIB>
+        <Coeficiente_Gini>46.2</Coeficiente_Gini>
+    </Pais>
+    <Pais>
+        <Nombre>Mexico</Nombre>
+        <Presidente>Andres Manuel Lopez Obrador</Presidente>
+        <PIB>2890685</PIB>
+        <Coeficiente_Gini>45.4</Coeficiente_Gini>
+    </Pais>
+    <Pais>
+        <Nombre>Panama</Nombre>
+        <Presidente>Laurentino Cortizo</Presidente>
+        <PIB>128500</PIB>
+        <Coeficiente_Gini>50.9</Coeficiente_Gini>
+    </Pais>
+    <Pais>
+        <Nombre>Costa Rica</Nombre>
+        <Presidente>Rodrigo Chaves</Presidente>
+        <PIB>129950</PIB>
+        <Coeficiente_Gini>47.2</Coeficiente_Gini>
+    </Pais>
+</Paises>

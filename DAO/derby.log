@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Nov 14 12:14:22 CET 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-018b-cd8a-1a9a-000007690890 
+on database directory /Users/sergiopavonalvarez/Programacion/Java/Workspaces Java/Workspace AccesoADatos/AccesoDatos/DAO/basedatos\Alumnos with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@45ee12a7 
+Loaded from file:/Users/sergiopavonalvarez/Programacion/Java/Workspaces%20Java/Workspace%20AccesoADatos/AccesoDatos/DAO/Librerias/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=20.0.1+9-29
+user.dir=/Users/sergiopavonalvarez/Programacion/Java/Workspaces Java/Workspace AccesoADatos/AccesoDatos/DAO
+os.name=Mac OS X
+os.arch=aarch64
+os.version=14.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
