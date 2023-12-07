@@ -8,8 +8,8 @@ public class DAO_Main {
 
 		DAO_Alumnos a = new DAO_Alumnos();
 
-		// a.crearTabla();
-		// a.rellenaTabla();
+		//a.crearTabla();
+		//a.rellenaTabla();
 		// a.borraTabla();
 
 		AlumnoCFGS b = new AlumnoCFGS("Sergio", (byte) 35, (byte) 9, (float) 1.78, false, (long) 70, "The last of us");
